@@ -25,10 +25,7 @@ To write a Python program that demonstrates **operator overloading** by overload
 ---
 
 ## 💻 Program:
-~~~
-Name: SUBBIAH S
-Reg No: 212223220111
-~~~
+
 ```
 class A:
     def __init__(self,a):
